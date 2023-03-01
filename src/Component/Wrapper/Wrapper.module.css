@@ -1,0 +1,8 @@
+.wrapper{
+    background-color: #f6f7f8;
+    width: 20rem;
+    padding: 1.5rem;
+    margin-top: 5rem;
+    border-radius:1rem ;
+    box-shadow: -8px 4px 20px 8px rgba(0,0,0,0.4);
+}
